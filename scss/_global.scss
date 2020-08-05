@@ -1,0 +1,53 @@
+html {
+    background-color: #333333;
+    color: #fff;
+}
+
+.container {
+    max-width: 1140px;
+    widows: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+ul {
+    text-decoration: none;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+}
+
+.slick-track {
+    min-height: 550px;
+}
+
+.title {
+    @extend %cond-light;
+    font-size: 3.5em;
+    line-height: 100%;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-stretch: ultra-condensed;
+    text-align: center;
+    margin: 150px 0 100px;
+
+    span {
+        color: #D1A954;
+    }
+}
+
+.subtitle {
+    @extend %cond-bold;
+    font-size: 1.5em;
+    line-height: 120%;
+    text-transform: uppercase;
+    font-stretch: condensed;
+    margin-bottom: 40px;
+}

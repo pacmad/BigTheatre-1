@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'OpenSans-CondLight', sans-serif;
+  src: url(../fonts/ofontruOpenSansCondensed.woff2) format('woff2'),
+    url(../fonts/ofontruOpenSansCondensed.woff) format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'OpenSans-CondBold', sans-serif;
+  src: url(../fonts/OpenSans-CondBold.woff2) format('woff2'),
+    url(../fonts/OpenSans-CondBold.woff) format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'OpenSans-Regular', sans-serif;
+  src: url(../fonts/OpenSans-Regular.woff2) format('woff2'),
+    url(../fonts/OpenSans-Regular.woff) format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'OpenSans-Semibold', sans-serif;
+  src: url(../fonts/OpenSans-Semibold.woff2) format('woff2'),
+    url(../fonts/OpenSans-Semibold.woff) format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'OpenSans-Bold', sans-serif;
+  src: url(../fonts/OpenSans-Bold.woff2) format('woff2'),
+    url(../fonts/OpenSans-Bold.woff) format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
